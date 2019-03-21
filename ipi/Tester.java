@@ -1,6 +1,4 @@
 /*
- * Jon Ham
- * Mimi Opkins - CECS 277
  * October 12, 2017
  * 
  * This program applies the concept of Polymorphism, Abstract, Interface, and Inheritance.
