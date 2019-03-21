@@ -2,7 +2,6 @@ package ipi;
 
 /**
  * Rectangle object class
- * @author JonHam
  *
  */
 public class Rectangle extends GeoObj {
