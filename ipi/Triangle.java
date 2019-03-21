@@ -2,7 +2,6 @@ package ipi;
 
 /**
  * Triangle object Class
- * @author JonHam
  *
  */
 public class Triangle extends GeoObj{
