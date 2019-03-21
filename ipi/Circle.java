@@ -2,7 +2,6 @@ package ipi;
 
 /**
  * Circle object class
- * @author JonHam
  *
  */
 public class Circle extends GeoObj{
