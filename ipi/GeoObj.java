@@ -1,7 +1,6 @@
 package ipi;
 /**
  * Geometric Object parent abstract class
- * @author JonHam
  *
  */
 public abstract class GeoObj implements Comparable<GeoObj>{
